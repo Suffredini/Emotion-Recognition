@@ -1,3 +1,8 @@
+Progetto di Intelligent Systems per il corso magistrale in Computer Engineering (Università di Pisa).
+
+Insert in the main root a folder "Dataset" and put inside the given dataset.
+More info on dataset inside the documentation.
+
 W1_0_StartScript -> Copy the 32 dataset into 2 vector: data and labels, it also cut the start value of the sample
 W2_0_StartScript -> The same of W1_0_StartScript but on two window
 W3_0_StartScript -> The same of W1_0_StartScript but on three window
